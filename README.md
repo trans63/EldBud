@@ -1,6 +1,6 @@
-# Never-Too-Old
+# Eld-Bud
 
-Never Too Old is an app that makes it easy for senior citizens to use their smartphones without want to rely on a second person.
+Eld-Bud is an app that makes it easy for senior citizens to use their smartphones without want to rely on a second person.
 
 ## Getting Started
 
